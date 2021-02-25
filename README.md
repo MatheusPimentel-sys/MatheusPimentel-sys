@@ -1,6 +1,12 @@
-<h3 aligin="center">Seja bem-vindo 👋</h3>
+<h3 align="center">Seja bem-vindo 👋</h3>
+<hr>
 
-### Hi there 👋
+<h3 align="center">Quem sou 👨🏿‍💻</h3>
+<hr>
+<p>Sou estudante do curso de Sistemas de Informação, interessado na área de desenvolvimento de software para automação. E estou sempre buscando conhecimento</p>
+
+
+
 
 <!--
 **MatheusPimentel-sys/MatheusPimentel-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
